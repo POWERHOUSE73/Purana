@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+server.log
+server/uploads/*.jpg
+server/uploads/*.JPG
+server/uploads/*.png
+server/uploads/*.jpeg
+*.log
